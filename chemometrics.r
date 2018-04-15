@@ -1,6 +1,6 @@
-#Page numbers refer to
-#"Chemometric Techniques for Quantitative Analysis" by Richard Kramer
-#http://www.amazon.com/Chemometric-Techniques-Quantitative-Analysis-Richard/dp/0824701984/
+# Page numbers refer to
+# "Chemometric Techniques for Quantitative Analysis" by Richard Kramer
+# http://www.amazon.com/Chemometric-Techniques-Quantitative-Analysis-Richard/dp/0824701984/
 
 #Overview of process: 
 # -Read in the spectra data.
