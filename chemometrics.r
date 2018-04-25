@@ -2,7 +2,7 @@
 # "Chemometric Techniques for Quantitative Analysis" by Richard Kramer
 # http://www.amazon.com/Chemometric-Techniques-Quantitative-Analysis-Richard/dp/0824701984/
 
-#Overview of process: 
+# Overview of process: 
 # -Read in the spectra data.
 # -Read in the concentration data.
 # -Estimate/fit the calibration.
