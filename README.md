@@ -1,4 +1,4 @@
-# Chemometric-Techniques  [R]
+# Chemometric - Techniques  [R]
 
 Chemometric Techniques for Quantitative Analysis
 
