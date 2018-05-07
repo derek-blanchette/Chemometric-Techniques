@@ -12,7 +12,7 @@
 #Input was provided in Excel format.
 library(xlsx)
 
-#Read in the standard series (known concentrations).
+# Read in the standard series (known concentrations).
 
 #Read in each spectra and cbind them together
 spectra <- NULL
